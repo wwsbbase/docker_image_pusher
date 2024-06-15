@@ -1,2 +1,2 @@
-imroc/open-webui:main
-ollama/ollama:latest
+snowdreamtech/frps
+snowdreamtech/frpc
