@@ -1,1 +1,1 @@
-neilpang/acme.sh
+--platform=linux/arm64 snowdreamtech/frpc
