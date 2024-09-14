@@ -1,3 +1,4 @@
 --platform=linux/arm64 snowdreamtech/frpc:0.58.0
 --platform=linux/arm64 ginuerzh/gost
 ginuerzh/gost
+redis:6.2.6
