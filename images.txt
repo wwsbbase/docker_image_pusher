@@ -4,3 +4,4 @@ ginuerzh/gost
 redis:6.2.6
 wiznote/wizserver
 cturra/ntp
+chenhw2/aliyun-ddns-cli
