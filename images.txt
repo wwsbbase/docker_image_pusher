@@ -6,6 +6,5 @@ wiznote/wizserver
 cturra/ntp
 chenhw2/aliyun-ddns-cli
 --platform=linux/arm64 chenhw2/aliyun-ddns-cli
-mzz2017/v2raya
 livekit/livekit-server
 livekit/generate
